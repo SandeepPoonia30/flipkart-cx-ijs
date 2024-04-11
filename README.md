@@ -7,6 +7,7 @@ A web application demonstration replacing Excel-based incident management.  Feat
 **1. Customer Input:** The code begins by collecting customer input. This includes:
 
    - Item value
+   - Issue Type and Issue
    - Presence/absence of product
    - Presence/absence of product image
 
