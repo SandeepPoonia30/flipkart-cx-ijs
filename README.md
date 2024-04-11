@@ -6,7 +6,7 @@ A web application demonstration replacing Excel-based incident management.  Feat
 
 1. Customer Input: The code begins by collecting customer input. This includes:
 
-  - Item value
+   - Item value
 Presence/absence of product
 Presence/absence of product image
 Resolution and Disposition Determination: Based on the customer input, the code uses decision logic (e.g., if/else statements or switch cases) to determine the appropriate:
