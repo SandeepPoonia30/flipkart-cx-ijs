@@ -1,6 +1,8 @@
-Flipkart Customer Support POC: A web application demonstration replacing Excel-based incident management.  Features incident resolution/disposition selection, status tracking, and Flipkart agent response logging. Built with Asp.net Razor pages (frontend), Asp.net Core Web API (backend), and MS SQL 2019 (database).
+# Flipkart Customer Support POC
 
-High-Level Overview
+A web application demonstration replacing Excel-based incident management.  Features incident resolution/disposition selection, status tracking, and Flipkart agent response logging. Built with Asp.net Razor pages (frontend), Asp.net Core Web API (backend), and MS SQL 2019 (database).
+
+## High-Level Overview
 
 Customer Input: The code begins by collecting customer input. This includes:
 
