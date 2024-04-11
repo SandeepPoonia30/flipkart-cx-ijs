@@ -1,6 +1,6 @@
 # Flipkart CX IJS Support POC
 
-A web application demonstration replacing Excel-based incident management.  Features incident resolution/disposition selection, status tracking, and Flipkart agent response logging. Built with Asp.net Razor pages (frontend), Asp.net Core Web API (backend), and MS SQL 2019 (database).
+A web application demonstration replacing Excel-based incident management.  Features incident resolution/disposition selection, status tracking, and Flipkart agent response logging. Built with Asp.net Nextjs (frontend), Asp.net Core Web API (backend), and MS SQL 2019 (database).
 
 https://www.youtube.com/watch?v=t1KYfw3hiUU
 
