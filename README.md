@@ -15,7 +15,7 @@ A web application demonstration replacing Excel-based incident management.  Feat
    - Resolution (how to solve the issue)
    - Disposition (final status of the complaint)
 
-**3.Notes Generation:** The code generates tailored notes for the agent to copy. These notes likely include:
+**3. Notes Generation:** The code generates tailored notes for the agent to copy. These notes likely include:
 
    - Summary of the issue
    - Steps for the agent to take
