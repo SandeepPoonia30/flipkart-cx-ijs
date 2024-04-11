@@ -4,12 +4,12 @@ A web application demonstration replacing Excel-based incident management.  Feat
 
 ## High-Level Overview
 
-1. Customer Input: The code begins by collecting customer input. This includes:
+**1. Customer Input:** The code begins by collecting customer input. This includes:
 
    - Item value
-Presence/absence of product
-Presence/absence of product image
-Resolution and Disposition Determination: Based on the customer input, the code uses decision logic (e.g., if/else statements or switch cases) to determine the appropriate:
+   - Presence/absence of product
+   - Presence/absence of product image
+   - Resolution and Disposition Determination: Based on the customer input, the code uses decision logic (e.g., if/else statements or switch cases) to determine the appropriate:
 
 Resolution (how to solve the issue)
 Disposition (final status of the complaint)
