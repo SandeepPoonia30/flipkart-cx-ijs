@@ -2,7 +2,7 @@
 
 A web application demonstration replacing Excel-based incident management.  Features incident resolution/disposition selection, status tracking, and Flipkart agent response logging. Built with Asp.net Nextjs (frontend), Asp.net Core Web API (backend), and MS SQL 2019 (database). See it in action – click the thumbnail
 
-[![Screenshot](https://i9.ytimg.com/vi_webp/t1KYfw3hiUU/mq3.webp?sqp=CJSA4bAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCO91rhF97wmuH6MpfKEPPCzDvgwg)](https://www.youtube.com/watch?v=t1KYfw3hiUU)
+[![Screenshot](https://github.com/SandeepPoonia30/flipkart-cx-ijs/assets/79972124/ede6d638-156c-4344-a18d-3ea7511cea43)](https://www.youtube.com/watch?v=t1KYfw3hiUU)
 
 ## High-Level Overview
 
